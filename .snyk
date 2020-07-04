@@ -450,3 +450,5 @@ patch:
         patched: '2020-07-04T17:23:44.425Z'
     - next > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
         patched: '2020-07-04T17:23:44.425Z'
+    - next > styled-jsx > @babel/types > lodash:
+        patched: '2020-07-04T17:25:05.962Z'
